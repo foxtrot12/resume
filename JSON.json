@@ -32,10 +32,10 @@
       "website": "",
       "endDate": "Present",
       "highlights": [
-        "Worked on development of  SIA, SHL's AI based assessment",
+        "Worked on development of  SIA, SHL's AI  Screener",
         "Assumed increased  leadership responsibilities as a Software Engineer.",
-        "Developed new features for correct implementation of WCAG patterns",
-        "Continued to lead migration projects, ensuring successful transitions and implementation."
+        "Developed new features for implementation of WCAG patterns across products",
+        "Led a project to systematically eliminate legacy vulnerabilities from the codebase, ensuring enhanced security and stability."
       ],
       "company": " SHL India",
       "position": "Software Engineer",
@@ -46,7 +46,7 @@
       "highlights": [
         "Played a pivotal role in launching TC Plus, a new assessments platform.",
         "Developed innovative, media based assessments to enhance user engagement.",
-        "Worked on development of a simulation based assessment",
+        "Worked on development of  Process Monitoring -  a simulation based assessment",
         "Led significant migration projects, transitioning from AngularJS to Angular and React.",
         "Focused on improving software accessibility in alignment with WCAG guidelines.",
         "Worked on developing ATOM, a form management library reducing development time across teams"
@@ -195,7 +195,7 @@
         "SCSS"
       ],
       "name": "Migration Initiatives",
-      "description": "Core Functionalities: Led the initiative to migrate core functionalities from AngularJS to React and Angular. This effort was aimed at and resulted in resulted in a more stable, easier-to-maintain project with reduced vulnerabilities and better performance.  Individual Assessments: Currently guiding and mentoring junior team members in the migration of assessments from AngularJS to Angular and React."
+      "description": "Core Functionalities: Led the initiative to migrate core functionalities from AngularJS to React and Angular. This effort was aimed at and resulted in a more stable, easier-to-maintain project with reduced vulnerabilities and better performance.  Individual Assessments: Currently guiding and mentoring junior team members in the migration of assessments from AngularJS to Angular and React."
     },
     {
       "keywords": [
