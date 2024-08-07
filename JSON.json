@@ -9,8 +9,8 @@
   },
   "basics": {
     "name": "Chinmaya Sharma",
-    "email": "s.chinmaya@myyahoo.com",
-    "phone": "+91 8076969130",
+    "email": "chinmayasharma@myyahoo.com",
+    "phone": "+91 9873526069",
     "location": {
       "address": "Gurgaon"
     },
@@ -209,6 +209,15 @@
     {
       "keywords": [
         "Typescript",
+        "RxJS"
+      ],
+      "name": "RagaReactive",
+      "url": "https://www.npmjs.com/package/raga-reactive",
+      "description": "RagaReactive is a lightweight state management utility I designed to simplify state handling in web applications. It is built on top of RxJS, it offers a reactive approach to managing and subscribing to application state changes. "
+    },
+    {
+      "keywords": [
+        "Typescript",
         "React",
         "Angular",
         "RxJS"
@@ -229,10 +238,10 @@
   "sections": [
     "templates",
     "profile",
+    "education",
     "work",
-    "projects",
     "skills",
-    "awards",
-    "education"
+    "projects",
+    "awards"
   ]
 }
