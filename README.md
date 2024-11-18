@@ -1,7 +1,7 @@
 # Chinmaya Sharma
 
 - **Email:** [s.chinmaya@myyahoo.com](mailto:s.chinmaya@myyahoo.com)
-- **Phone:** +91 8076969130
+- **Phone:** +91 9873526069
 - **Location:** Gurgaon
 - **Website:** [https://chini.vercel.app/](https://chini.vercel.app/)
 
