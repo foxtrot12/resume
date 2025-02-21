@@ -78,15 +78,16 @@
     {
       "level": "",
       "keywords": [
-        "JavaScript",
-        "HTML/CSS",
-        "SCSS",
-        "Typescript"
+        "Typescript",
+        "JavaScript(ES6)",
+        "HTML5/CSS3",
+        "SASS"
       ],
       "name": "Programming Languages"
     },
     {
       "keywords": [
+        "Angular",
         "ReactJS",
         "Unity",
         "Single-SPA"
@@ -100,7 +101,8 @@
         "Canvas API",
         "WCAG",
         "Git",
-        "Bitbucket"
+        "Bitbucket",
+        "CI/CD"
       ],
       "name": "Others"
     },
@@ -109,7 +111,9 @@
         "Jira",
         "Functional Programming",
         "Mobile First Design",
-        "Responsive UI"
+        "Responsive UI",
+        "Material Design",
+        "Restful API"
       ]
     }
   ],
@@ -213,18 +217,6 @@
       "name": "RagaReactive",
       "url": "https://www.npmjs.com/package/raga-reactive",
       "description": "RagaReactive is a lightweight state management utility I designed to simplify state handling in web applications. It is built on top of RxJS, it offers a reactive approach to managing and subscribing to application state changes. "
-    },
-    {
-      "keywords": [
-        "Typescript",
-        "ReactJS",
-        "Angular",
-        "RxJS",
-        "WCAG"
-      ],
-      "name": "A11y-Ninja",
-      "description": "This library is a collection of TypeScript modules designed to enhance accessibility and user interaction within web applications. It includes utilities for focus management, selection behaviors, and keyboard navigation in tables, making it ideal for Angular and React-based applications.",
-      "url": "https://github.com/foxtrot12/A11y-Ninja"
     }
   ],
   "awards": [
